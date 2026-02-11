@@ -69,5 +69,3 @@ The application serves three primary user roles: **Mothers**, **Doctors (Admin)*
 - XAMPP (with PHP and MySQL support)
 - Chrome 
 - Git
-
-   git clone https://github.com/yourusername/postpartum-pal.git
